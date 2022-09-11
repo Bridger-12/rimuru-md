@@ -2,33 +2,33 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6289520169515']
-global.premium = ['6289520169515']
-global.ownername = 'Vander Store'
-global.botname = 'Vander MD'
-global.packname = '© by Vander MD'
+global.owner = ['628889616144', '628889616144']
+global.premium = ['628889616144']
+global.ownername = 'ᴹᴿ᭄ Ekนຊikค ×፝֟͜×'
+global.botname = 'Nezuko - MD'
+global.packname = '© by ᴹᴿ᭄ Ekนຊikค ×፝֟͜×'
 global.gc = '-'
-global.linkyt = 'Minta Owner'
-global.linkgc = 'Minta Owner'
-global.limitawal = '100'
-global.author = '@Vandwr.Store'
+global.linkyt = 'Gada cok'
+global.linkgc = 'Gada cok'
+global.limitawal = '25'
+global.author = 'Nezuko - MD'
 global.sessionName = 'polo'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = 'terserah'
 global.mess = {
-    success: 'Berhasil',
+    success: 'Berhasil...',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Tunggu sebentar, sedang di proses',
+    wait: 'Tunggu sebentar, sedang di proses !!',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 25
 }
 global.gambar = 'https://telegra.ph/file/c4d558fa3e3a83a18212a.jpg' //disini gambar bot nya lu bisa ganti pink gambar ini dengan link gambar punya lu
 global.sc = fs.readFileSync('./media/sc.jpg')
